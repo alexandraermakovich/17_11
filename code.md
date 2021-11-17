@@ -4,6 +4,8 @@ Whether you are adding a loss function, improving test coverage, or writing an
 RFC for a major design change, this portion of the contributor guide will help
 you get started. Thank you for work and interest in improving TensorFlow.
 
+<a href="https://gitlocalize-staging.herokuapp.com/repo/1897/es?utm_source=badge"> <img src="https://gitlocalize-staging.herokuapp.com/repo/1897/es/badge.svg" /> </a>
+
 ## Before you get started
 
 Before you contribute source code to a TensorFlow project, please review the `CONTRIBUTING.md` file in the GitHub repo of the project. (For example, see the
