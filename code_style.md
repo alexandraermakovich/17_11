@@ -8,6 +8,7 @@ spaces instead of 4. Please conform to the
 [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md),
 and use [pylint](https://www.pylint.org/) to check your Python changes.
 
+https://gitlocalize-staging.herokuapp.com/repo/1897/es/badge.svg
 
 ### pylint
 
