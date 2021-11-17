@@ -4,7 +4,7 @@ Whether you are adding a loss function, improving test coverage, or writing an
 RFC for a major design change, this portion of the contributor guide will help
 you get started. Thank you for work and interest in improving TensorFlow.
 
-[url=https://gitlocalize-staging.herokuapp.com/repo/1897/de?utm_source=badge][img]https://gitlocalize-staging.herokuapp.com/repo/1897/de /badge.svg[/img][/url]
+[![gitlocalized ](https://gitlocalize-staging.herokuapp.com/repo/1897/de/badge.svg)](https://gitlocalize-staging.herokuapp.com/repo/1897/de?utm_source=badge)
 
 ## Before you get started
 
